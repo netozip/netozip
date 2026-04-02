@@ -18,7 +18,7 @@ Perfil orientado a resultados, com foco em performance, inovação e entrega de 
 
 <p align="left">
 <a href="https://github.com/netozip/netozip">
-<img alt="GitHub" title="GitHub" src="https://custom-icon-badges.demolab.com/github/stars/netozip?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
+<img alt="GitHub" title="GitHub" src="https://custom-icon-badges.demolab.com/github/stars/netozip?color=55960c&style=for-the-badge&labelColor=488207&logo=github&label=Github"/>
 </a>
 
 <a href="https://github.com/netozip?tab=repositories">
@@ -26,7 +26,7 @@ Perfil orientado a resultados, com foco em performance, inovação e entrega de 
 </a>
 
 <a href="mailto:netozip@wzip.com">
-<img alt="Email" title="E-mail" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
+<img alt="Email" title="E-mail" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600&label=E-mail"/>
 </a>
 
 <a href="hhttps://www.linkedin.com/in/netozip/">
@@ -135,6 +135,14 @@ Perfil orientado a resultados, com foco em performance, inovação e entrega de 
 />
 <img 
     align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+<img 
+    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
@@ -149,7 +157,14 @@ Perfil orientado a resultados, com foco em performance, inovação e entrega de 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="JQuery" 
+    title="JQuery"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+/>
 <img 
     align="left" 
     alt="Git" 
@@ -167,6 +182,14 @@ Perfil orientado a resultados, com foco em performance, inovação e entrega de 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Mysql" 
+    title="Mysql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
 
 <img 
     align="left" 
